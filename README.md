@@ -1,6 +1,6 @@
 /*
 C# CenturiesToMinutes
-Write program to enter an integer number of centuries and convert it to years, days, hours and minutes
+Write program to enter an integer number of centuries and convert it to years, days, hours and minutes, seconds, milliseconds, microseconds, nanoseconds
 */
 using System;
 
